@@ -1,0 +1,112 @@
+/*------mainmenu------------------------------*/
+
+#uy {float:right;
+	 margin:150px 200px 0px 100px}
+#ui {text-align:center;
+	color:pink;
+	margin-top:25px;
+	text-shadow:0px 0px 10px green}
+body {background-image:url('../images/libraryimage.jpg');
+	 background-size:cover}
+#ul {list-style-image:url('favicon (1).png');
+	padding:5px;
+	color:white;
+	text-shadow:0px 0px 15px #3300ff}
+#hjk {margin:20px 10px 0px 0px;
+	  box-shadow: 0px 0px 20px green;
+	  font-size:20px;
+	  padding:5px}
+#kjh { margin-left:10px;
+	  box-shadow: 0px 0px 20px green;
+	  font-size:20px;
+	  background-color:green;
+	  padding:5px;
+	  text-decoration:none}
+
+/*-----------------------search book-----------------------------------------*/
+
+#hello {text-align:center;
+    color:pink;
+	margin-top:30px;
+	text-shadow:0px 0px 10px green}
+
+#heat {height:50px;
+	   width:100px;
+	   box-shadow:0px 0px 10px black;
+	   border-radius:5px;
+	   width:300px;
+	   padding:10px;
+	   color:white;
+	   text-shadow:0px 0px 20px blue;
+	   box-shadow:0px 0px 10px green;
+	   border-color:black}
+#gf {height:30px;
+	   width:300px;
+	   outline:0px}
+#hj {float:right;
+	 margin:200px 200px 0px 30px
+	 }
+#jk {background-color:cyan;
+	 margin:20px 0px 0px 80px;
+	 border-radius:20px;
+	 height:40px;
+	 width:150px;
+	 font-weight:bold;
+	 box-shadow:0px 0px 10px green}
+
+/*--------------------------update book /delete book---------------------------------------------*/
+
+#gi {float:right;
+	 margin:200px 200px 0px 200px;}
+#bf {text-align:center;
+	 color:pink;
+	 margin-top:30px;
+	 text-shadow:0px 0px 10px blue}
+#nn {font-weight:bold;
+	 text-shadow:0px 0px 30px blue;
+	 color:white;
+	 margin-bottom:10px;
+	 text-shadow:0px 0px 10px black}
+#ll {box-shadow:0px 0px 10px green;
+	margin-bottom:10px;
+	height:40px;
+	 width:300px;
+	 text-align:center;
+	 font-weight:bold}
+#nb {border-radius:10px;
+	margin:10px 0px 0px 150px;
+	height:40px;
+	 width:150px;
+	 font-weight:bold;
+	 background-color:cyan;
+	 box-shadow:0px 0px 10px green}
+
+/*---------------------------add book----------------------------------*/
+#ek {text-align:center;
+	 color:pink;
+	 margin-top:30px;
+	 text-shadow:0px 0px 10px blue}
+
+#ss {float:right;
+	 margin:150px 200px 0px 200px;}
+.bk {font-weight:bold;
+	 text-shadow:0px 0px 30px blue;
+	 color:white;
+	 margin-bottom:10px;
+	 text-shadow:0px 0px 10px black;
+	 font-weight:bold}
+
+.hk {box-shadow:0px 0px 10px green;
+	margin-bottom:10px;
+	height:40px;
+	 width:300px;
+	 text-align:center;
+	 font-weight:bold;
+	 border-color:black}
+#yy {border-radius:10px;
+	margin:10px 0px 0px 80px;
+	height:40px;
+	 width:150px;
+	 font-weight:bold;
+	 background-color:cyan;
+	 box-shadow:0px 0px 10px green}
